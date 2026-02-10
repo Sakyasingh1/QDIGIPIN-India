@@ -101,9 +101,9 @@ This program is free software: you can redistribute it and/or modify it under th
 
 ## Support
 
-- **Issues**: https://github.com/sakyasingh/Q-DIGIPIN-India/issues
+- **Issues**: https://github.com/Sakyasingh1/Q-DIGIPIN-India/
 - **Documentation**: See project wiki
-- **Email**: sakyasingh@example.com
+- **Email**: routsakyasingh@gmail.com
 
 ## Contributing
 
