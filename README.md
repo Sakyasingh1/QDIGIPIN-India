@@ -23,7 +23,7 @@
 
 ### 🎯 What is DIGIPIN?
 
-DIGIPIN (Digital India Geographic Pin) is an innovative address system developed by India Post that provides:
+DIGIPIN (Digital PINCODE) is an innovative address system developed by India Post in collaboration with IIT, Hyderbad and NRSC ISRO that provides:
 - **Universal Coverage**: Every location in India gets a unique code
 - **Hierarchical Structure**: From country-level to building-level precision
 - **Easy to Remember**: Alphanumeric codes that are human-friendly
