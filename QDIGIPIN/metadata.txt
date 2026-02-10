@@ -7,7 +7,7 @@ about=Q-DIGIPIN India is a comprehensive QGIS plugin that implements India Post'
 
 version=1.1.1
 author=Sakyasingh Rout
-email=sakyasingh@example.com
+email=routsakyasingh@gmail.com
 
 changelog=
     1.1.1 - Bug Fix (2026-02-10)
@@ -33,9 +33,9 @@ changelog=
     - Processing algorithms
     - Comprehensive documentation
 
-tracker=https://github.com/sakyasingh/Q-DIGIPIN-India/issues
-repository=https://github.com/sakyasingh/Q-DIGIPIN-India
-homepage=https://github.com/sakyasingh/Q-DIGIPIN-India
+tracker=https://github.com/Sakyasingh1/Q-DIGIPIN-India/
+repository=https://github.com/Sakyasingh1/Q-DIGIPIN-India
+homepage=https://github.com/Sakyasingh1/Q-DIGIPIN-India
 
 tags=digipin,geocoding,encoding,grid,address,coordinates,navigation,spatial analysis
 
